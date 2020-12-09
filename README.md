@@ -3,7 +3,7 @@ Asp.Net-Core-MVC-CRUD-with-EF-Core
 
 Pacotes NuGet: (NuGet Solution)
 
-1:Microsoft.EntityFrameworkCore
+1: Microsoft.EntityFrameworkCore
 
 2: Microsoft.EntityFrameworkCore.Tools
 
