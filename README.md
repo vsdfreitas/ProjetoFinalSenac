@@ -1,11 +1,11 @@
 # ProjetoFinalSenac
-Asp.Net-Core-MVC-CRUD-with-EF-Core
+- MVC CRUD with EF Core
 
-Asp.Net-Core 5
+1: Asp.Net-Core 5
 
-SQL Server
+2: SQL Server
 
-Pacotes NuGet: (NuGet Solution)
+- Packages NuGet: (NuGet Solution)
 
 1: Microsoft.EntityFrameworkCore
 
@@ -14,7 +14,7 @@ Pacotes NuGet: (NuGet Solution)
 3: Microsoft.EntityFrameworkCore.SqlServer
 
 
-Migrations: (Package Manager Console)
+- Migrations: (Package Manager Console)
 
 1: Add-Migration "InitialCreate"
 
